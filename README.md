@@ -7,7 +7,9 @@ Its message sending function is implemented with server chan(http://sc.ftqq.com/
 You have to set the router password and ip. In addition, server chan id is necessary.
 
 sercerchanid = r'http://sc.ftqq.com/[Your server chan ID here].send?'
+
 routerip = '192.168.1.1'
+
 routerpassword = 'routerpassword'
 
 you have to know that the log file path is the code directory
