@@ -1,0 +1,5 @@
+## General
+.idea/*
+
+*.pkl
+log.txt
