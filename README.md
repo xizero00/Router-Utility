@@ -1,4 +1,6 @@
 # Router Utility
+
+## Introduction
 Router Utility is implemented using python2.7. It monitors router's status, check the network connectivity. It reboots the router and report router's status throught wechat when router is off-line.
 
 Its message sending function is implemented with server chan(http://sc.ftqq.com/3.version), so you have to login server chan with your github account and get a server chan ID.
@@ -14,7 +16,7 @@ routerpassword = 'routerpassword'
 
 you have to know that the log file path is the code directory
 
-## Support devices
+## Supported devices
 Now Router Utility only supports TP-LINK routers
 
 ## Others
